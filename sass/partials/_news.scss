@@ -1,0 +1,28 @@
+
+.card-img-top {
+  max-width: 100%;
+  height: 200px;
+  border-radius:10px 10px 0 0;
+}
+
+.card {
+  border-radius: 10px;
+}
+.col {
+  height: 400px;
+}
+.card-body .btn{
+  position: relative;
+  
+}
+
+.card-body .btn::before{
+content: "";
+position: absolute;
+right: 0;
+top: 0;
+width: 25px;
+height: 100%;
+background-color: $success;
+
+}

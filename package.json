@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "5.1.x",
+    "gitignore": "^0.7.0"
+  },
+  "devDependencies": {
+    "package_name": "^1.0.2"
+  }
+}

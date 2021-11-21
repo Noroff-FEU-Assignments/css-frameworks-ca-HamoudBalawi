@@ -1,0 +1,19 @@
+
+html, body {
+    height: 100%;
+}
+body {
+    background-color:#EFEFEF ;
+    display: flex;
+    flex-direction: column;
+}
+.body-wrapper {
+    flex: 1 0 auto;
+}
+.nav-tabs{
+  position: relative;
+
+}
+.container {
+    max-width: 95%;
+}
